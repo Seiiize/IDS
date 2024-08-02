@@ -24,9 +24,9 @@ This project implements an Intrusion Detection System (IDS) that analyzes networ
 
 Due to GitHub's file size limits, some files are not included in this repository. Specifically, the dataset files are too large to be hosted on GitHub and should be obtained separately. You will need the following datasets to run the IDS system:
 
-- **`Datasett.csv`**: [Dataset for training the models (261.31 MB)]([link-to-download](https://drive.google.com/file/d/1lKB3wMM3wk72waHIjjNtSR28L6HhO_si/view?usp=drive_link))
-- **`Data/udpfloodloi.csv`**: [Additional dataset (123.84 MB)]([link-to-download](https://drive.google.com/file/d/1oYmXOolXgf1B6wu_x2qTgLC31xNIy64n/view?usp=drive_link))
-- **`random_forest.pkl`**: [Random Forest Model (686.43 MB)]([link-to-download](https://drive.google.com/file/d/1oBdqaRixYc7ObbY1Gll4VyzjoNBNYwnl/view?usp=drive_link))
+- **`Datasett.csv`**: [Dataset for training the models (261.31 MB)]((https://drive.google.com/file/d/1lKB3wMM3wk72waHIjjNtSR28L6HhO_si/view?usp=drive_link))
+- **`Data/udpfloodloi.csv`**: [Additional dataset (123.84 MB)]((https://drive.google.com/file/d/1oYmXOolXgf1B6wu_x2qTgLC31xNIy64n/view?usp=drive_link))
+- **`random_forest.pkl`**: [Random Forest Model (686.43 MB)]((https://drive.google.com/file/d/1oBdqaRixYc7ObbY1Gll4VyzjoNBNYwnl/view?usp=drive_link))
 
 ##Contributing
 Feel free to contribute to this project by opening issues, submitting pull requests, or suggesting improvements. For any questions or issues, please contact sofianechikhso@gmail.com.
